@@ -24,11 +24,7 @@ format: pdf
 
 # Screenshot of Your Draw
 
-> Replace the path below with your actual screenshot file. Put your image inside a folder like `assets/` or `images/` in **this** project.
-
-![Countdown draw showing my six numbers and target](assets/countdown.png)
-
-![](Screenshot_5-9-2025_152346_sim-lab-siue.github.io.jpeg)
+![](images/countdownsc.jpeg)
 
 # My Countdown Game
 
